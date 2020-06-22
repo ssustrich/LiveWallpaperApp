@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveWallpaperApp.Android", "LiveWallpaperApp.Android\LiveWallpaperApp.Android.csproj", "{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveWallpaperApp", "LiveWallpaperApp\LiveWallpaperApp.csproj", "{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A8FCCC-6891-4FB3-AA16-31425C9ADBEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA8BAB2-18E4-4033-8CBE-A75E91F1F3B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06B4AF4-B36F-4D5A-AE53-B5038C0809FF}
+	EndGlobalSection
+EndGlobal
